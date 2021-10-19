@@ -84,7 +84,7 @@ body {
   color: var(--primary-title-color);
 }
 .hero-btn {
-  font-family: Roboto, sans-serif;
+  font-family: inherit;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.87;
@@ -178,7 +178,7 @@ body {
 
 /* Список кнопок */
 .portfolio-btn {
-  font-family: Roboto, sans-serif;
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
